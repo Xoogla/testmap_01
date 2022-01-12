@@ -721,10 +721,6 @@
          "tilecount":1,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":6527,
-         "source":"tilesets\/quiet.tsx"
         }],
  "tilewidth":32,
  "type":"map",
