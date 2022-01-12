@@ -234,7 +234,7 @@
                  "name":"clockPopup",
                  "rotation":0,
                  "type":"",
-                 "visible":true,
+                 "visible":false,
                  "width":128,
                  "x":512,
                  "y":0
@@ -719,6 +719,19 @@
          "name":"wateerSheep",
          "spacing":0,
          "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":5,
+         "firstgid":6527,
+         "image":"tilesets\/quiet.png",
+         "imageheight":193,
+         "imagewidth":160,
+         "margin":0,
+         "name":"quiet",
+         "spacing":0,
+         "tilecount":30,
          "tileheight":32,
          "tilewidth":32
         }],
