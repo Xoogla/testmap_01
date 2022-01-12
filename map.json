@@ -107,7 +107,7 @@
                 {
                  "name":"silent",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
