@@ -15,7 +15,7 @@
                  "value":"MeetingRoom"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -27,7 +27,7 @@
          "name":"Block",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
          "name":"Kachelebene 13",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -62,7 +62,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -80,7 +80,7 @@
                  "value":"clock"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -98,7 +98,7 @@
                  "value":"music\/vogel.ogg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -116,7 +116,7 @@
                  "value":"music\/sheep_baa.ogg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -134,7 +134,7 @@
                  "value":"music\/coin.mpeg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -152,7 +152,7 @@
                  "value":"music\/water.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -164,7 +164,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -176,7 +176,7 @@
          "name":"Himmel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -261,7 +261,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"www.google.de"
+                         "value":"https:\/\/www.google.de"
                         }],
                  "rotation":0,
                  "type":"website",
