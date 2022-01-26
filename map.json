@@ -264,11 +264,11 @@
                          "value":"www.google.de"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":89,
-                 "x":910,
-                 "y":535
+                 "x":886,
+                 "y":720
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -325,7 +325,7 @@
          "y":0
         }],
  "nextlayerid":49,
- "nextobjectid":10,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "properties":[
         {
