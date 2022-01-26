@@ -243,28 +243,17 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":64,
-                 "id":4,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":512,
-                 "y":0
-                }, 
-                {
                  "height":79,
                  "id":9,
-                 "name":"google",
+                 "name":"createDeskPopup",
                  "properties":[
                         {
-                         "name":"default",
+                         "name":"OpenWebsite",
                          "type":"string",
                          "value":"https:\/\/www.google.de"
                         }],
                  "rotation":0,
-                 "type":"website",
+                 "type":"",
                  "visible":true,
                  "width":89,
                  "x":886,
