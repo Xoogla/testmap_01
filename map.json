@@ -324,6 +324,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door_01"
