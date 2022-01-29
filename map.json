@@ -227,6 +227,11 @@
                  "value":false
                 }, 
                 {
+                 "name":"code",
+                 "type":"string",
+                 "value":"0815"
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door_01"
@@ -1134,6 +1139,15 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }]
+                }, 
+                {
+                 "id":1568,
+                 "properties":[
+                        {
+                         "name":"doorVariable",
+                         "type":"string",
+                         "value":"door_01"
                         }]
                 }],
          "tilewidth":32
