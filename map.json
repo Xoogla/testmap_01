@@ -327,6 +327,11 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door_01"
+                }, 
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"door_zone_01"
                 }],
          "type":"tilelayer",
          "visible":true,
