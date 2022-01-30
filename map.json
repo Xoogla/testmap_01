@@ -381,7 +381,7 @@
                         {
                          "name":"persist",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -390,8 +390,8 @@
                  "x":599.626420454545,
                  "y":304.75390625
                 }],
-         "offsetx":-6.1264204545455,
-         "offsety":-0.25390625,
+         "offsetx":7.3735795454545,
+         "offsety":77.24609375,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
