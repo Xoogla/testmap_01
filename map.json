@@ -256,8 +256,8 @@
                 }, 
                 {
                  "name":"code",
-                 "type":"string",
-                 "value":"73311"
+                 "type":"int",
+                 "value":73311
                 }, 
                 {
                  "name":"doorVariable",
