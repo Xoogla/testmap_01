@@ -238,7 +238,7 @@
          "offsety":-0.251649305555553,
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -266,7 +266,7 @@
          "offsety":-2.09090909090912,
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
