@@ -299,6 +299,11 @@
                  "value":"7125421"
                 }, 
                 {
+                 "name":"doorVariable",
+                 "type":"string",
+                 "value":"door_01"
+                }, 
+                {
                  "name":"zone",
                  "type":"string",
                  "value":"door_01_digi_zone"
