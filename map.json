@@ -563,7 +563,7 @@
                  "point":true,
                  "properties":[
                         {
-                         "name":"closedLayer",
+                         "name":"closeLayer",
                          "type":"string",
                          "value":"closed_door"
                         }, 
