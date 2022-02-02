@@ -301,9 +301,9 @@
                  "value":"door_01"
                 }, 
                 {
-                 "name":"door_01_digi_zone",
+                 "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"door_01_digi_zone"
                 }],
          "type":"tilelayer",
          "visible":true,
